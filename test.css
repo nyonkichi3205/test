@@ -11,6 +11,10 @@ h1 {
   border-left: solid 5px #ffaf58;/*左線（実線 太さ 色）*/
 }
 
-p{
-  font-family: "MS Pゴシック";
+p.font1{
+  font-family: fantasy;
+}
+
+p.font2{
+  font-family: serif;
 }
