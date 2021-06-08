@@ -32,6 +32,23 @@ h1.test2 {
   border-left: solid 5px #ffaf58;/*左線（実線 太さ 色）*/
 }
 
+h1.test3 {
+  position: relative;
+  padding: 0.5em;
+  background: #a6d3c8;
+  color: white;
+}
+
+h1.test3::before {
+  position: absolute;
+  content: '';
+  top: 100%;
+  left: 0;
+  border: none;
+  border-bottom: solid 15px transparent;
+  border-right: solid 20px rgb(149, 158, 155);
+}
+
 p.font1{
   font-family: Meiryo;
 }
