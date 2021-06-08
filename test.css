@@ -43,3 +43,40 @@ p.font2{
     margin: 0; 
     padding: 0;
 }
+
+.box3 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #2c2c2f;
+    background: #cde4ff;/*背景色*/
+}
+.box3 p {
+    margin: 0; 
+    padding: 0;
+}
+
+.box11{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #5d627b;
+    background: white;
+    border-top: solid 5px #5d627b;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+.box11 p {
+    margin: 0; 
+    padding: 0;
+}
+
+.box12{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #5989cf;
+    background: #c6e4ff;
+    border-bottom: solid 6px #aac5de;
+    border-radius: 9px;
+}
+.box12 p {
+    margin: 0; 
+    padding: 0;
+}
