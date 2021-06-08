@@ -44,64 +44,20 @@ p.font2{
     padding: 0;
 }
 
-.box3 {
-    padding: 0.5em 1em;
+.box29 {
     margin: 2em 0;
-    color: #2c2c2f;
-    background: #cde4ff;/*背景色*/
+    background: #dcefff;
 }
-.box3 p {
-    margin: 0; 
-    padding: 0;
-}
-
-.box11{
-    padding: 0.5em 1em;
-    margin: 2em 0;
-    color: #5d627b;
-    background: white;
-    border-top: solid 5px #5d627b;
-    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
-}
-.box11 p {
-    margin: 0; 
-    padding: 0;
-}
-
-.box12{
-    padding: 0.5em 1em;
-    margin: 2em 0;
-    color: #5989cf;
-    background: #c6e4ff;
-    border-bottom: solid 6px #aac5de;
-    border-radius: 9px;
-}
-.box12 p {
-    margin: 0; 
-    padding: 0;
-}
-
-.box27 {
-    position: relative;
-    margin: 2em 0;
-    padding: 0.5em 1em;
-    border: solid 3px #62c1ce;
-}
-.box27 .box-title {
-    position: absolute;
-    display: inline-block;
-    top: -27px;
-    left: -3px;
-    padding: 0 9px;
-    height: 25px;
-    line-height: 25px;
-    font-size: 17px;
-    background: #62c1ce;
-    color: #ffffff;
+.box29 .box-title {
+    font-size: 1.2em;
+    background: #5fb3f5;
+    padding: 4px;
+    text-align: center;
+    color: #FFF;
     font-weight: bold;
-    border-radius: 5px 5px 0 0;
+    letter-spacing: 0.05em;
 }
-.box27 p {
-    margin: 0; 
-    padding: 0;
+.box29 p {
+    padding: 15px 20px;
+    margin: 0;
 }
