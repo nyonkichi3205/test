@@ -19,14 +19,13 @@ p.font2{
   font-family: serif;
 }
 
-.box1 {
+.box3 {
     padding: 0.5em 1em;
     margin: 2em 0;
-    font-weight: bold;
-    /*border: solid 3px #000000;*/
-    background: #fffff;
+    color: #2c2c2f;
+    background: #cde4ff;/*背景色*/
 }
-.box1 p {
+.box3 p {
     margin: 0; 
     padding: 0;
 }
